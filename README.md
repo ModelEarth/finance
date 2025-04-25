@@ -1,3 +1,3 @@
 # Finance
 
-Credit market probability development by Parshwa S and Varun G.
+Credit market probability analysis by Parshwa S and Varun G.
